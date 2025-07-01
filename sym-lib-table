@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Wio-E5")(type "KiCad")(uri "${KIPRJMOD}/kicad-library-sigmondkukla/symbols/Wio-E5.kicad_sym")(options "")(descr ""))
+  (lib (name "MIC5318")(type "KiCad")(uri "${KIPRJMOD}/kicad-library-sigmondkukla/symbols/MIC5318.kicad_sym")(options "")(descr ""))
+  (lib (name "Qwiic")(type "KiCad")(uri "${KIPRJMOD}/kicad-library-sigmondkukla/symbols/Qwiic.kicad_sym")(options "")(descr ""))
+)
